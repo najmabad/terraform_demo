@@ -1,0 +1,14 @@
+# Local terraform directory
+.terraform/*
+
+# Local terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform variable files - these should be created by the user
+*.tfvars
+
+.DS_Store
+
+
+
